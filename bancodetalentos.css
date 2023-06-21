@@ -1,0 +1,417 @@
+.bancodetalentos-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.bancodetalentos-bancodetalentos {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(41, 45, 50, 1);
+}
+.bancodetalentos-barradepesquisa {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 97px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(4, 204, 168, 1);
+}
+.bancodetalentos-frameiconarrowright1 {
+  top: 24.25px;
+  left: 112px;
+  width: 50px;
+  height: 48.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bancodetalentos-group {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 48.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bancodetalentos-vector {
+  top: 0px;
+  left: 29.550233840942383px;
+  width: 20px;
+  height: 48px;
+  position: absolute;
+}
+.bancodetalentos-vector1 {
+  top: 21.57793617248535px;
+  left: 0px;
+  width: 50px;
+  height: 5px;
+  position: absolute;
+}
+.bancodetalentos-frameiconarrowleft {
+  top: 24.25px;
+  left: 36px;
+  width: 50px;
+  height: 48.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bancodetalentos-group1 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 48.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bancodetalentos-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 48px;
+  position: absolute;
+}
+.bancodetalentos-vector3 {
+  top: 21.577850341796875px;
+  left: 0.45401254296302795px;
+  width: 50px;
+  height: 5px;
+  position: absolute;
+}
+.bancodetalentos-frameiconrefresh {
+  top: 24.25px;
+  left: 197px;
+  width: 50px;
+  height: 50.52083206176758px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bancodetalentos-vector4 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 51px;
+  position: absolute;
+}
+.bancodetalentos-frame3 {
+  top: 24.25px;
+  left: 293px;
+  width: 1444px;
+  height: 48.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.bancodetalentos-text {
+  top: 4.75px;
+  left: 12px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bancodetalentos-image2 {
+  top: 9px;
+  left: 1792px;
+  width: 80px;
+  height: 84px;
+  position: absolute;
+  border-radius: 337.5px;
+}
+.bancodetalentos-navegao {
+  top: 97px;
+  left: 0px;
+  width: 1920px;
+  height: 88px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.bancodetalentos-frame4 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 87px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(75, 81, 88, 1);
+}
+.bancodetalentos-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 326px;
+  height: 87px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.bancodetalentos-rectangle2 {
+  top: 0px;
+  left: 326px;
+  width: 502px;
+  height: 87px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.bancodetalentos-rectangle3 {
+  top: 0px;
+  left: 823px;
+  width: 548px;
+  height: 87px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.bancodetalentos-rectangle4 {
+  top: 0px;
+  left: 1371px;
+  width: 549px;
+  height: 87px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.bancodetalentos-text02 {
+  top: 17px;
+  left: 1448px;
+  color: rgba(255, 255, 255, 1);
+  width: 423px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bancodetalentos-text04 {
+  top: 17px;
+  left: 960px;
+  color: rgba(255, 255, 255, 1);
+  width: 287px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bancodetalentos-text06 {
+  top: 17px;
+  left: 458px;
+  color: rgba(255, 255, 255, 1);
+  width: 230px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bancodetalentos-text08 {
+  top: 16px;
+  left: 93px;
+  color: rgba(255, 255, 255, 1);
+  width: 148px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bancodetalentos-text10 {
+  top: 206px;
+  left: 764px;
+  color: rgba(255, 255, 255, 1);
+  width: 882px;
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bancodetalentos-text12 {
+  top: 352px;
+  left: 749px;
+  color: rgba(255, 255, 255, 1);
+  width: 913px;
+  height: auto;
+  position: absolute;
+  font-size: 56px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bancodetalentos-frame9 {
+  top: 281px;
+  left: 137px;
+  width: 404px;
+  height: 640px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(4, 68, 140, 1);
+}
+.bancodetalentos-text14 {
+  top: 320px;
+  left: 38px;
+  color: rgba(0, 0, 0, 1);
+  width: 406px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bancodetalentos-frame10 {
+  top: 425px;
+  left: 38px;
+  width: 329px;
+  height: 94px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: rgba(183, 183, 183, 1);
+}
+.bancodetalentos-text16 {
+  top: 26px;
+  left: 20px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bancodetalentos-group2 {
+  top: 52px;
+  left: 58px;
+  width: 289px;
+  height: 223px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bancodetalentos-vector5 {
+  top: 0px;
+  left: 65.01441955566406px;
+  width: 159px;
+  height: 116px;
+  position: absolute;
+}
+.bancodetalentos-vector6 {
+  top: 130.55984497070312px;
+  left: 0px;
+  width: 289px;
+  height: 92px;
+  position: absolute;
+}
+.bancodetalentos-frame11 {
+  top: 478px;
+  left: 897px;
+  width: 616px;
+  height: 515px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(4, 68, 140, 1);
+}
+.bancodetalentos-text18 {
+  top: 43px;
+  left: 81px;
+  color: rgba(255, 255, 255, 1);
+  width: 508px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

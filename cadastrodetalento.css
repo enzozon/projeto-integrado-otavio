@@ -1,0 +1,770 @@
+.cadastrodetalento-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.cadastrodetalento-cadastrodetalento {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(41, 45, 50, 1);
+}
+.cadastrodetalento-frame2 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 97px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(4, 204, 168, 1);
+}
+.cadastrodetalento-frameiconarrowright1 {
+  top: 24.25px;
+  left: 112px;
+  width: 50px;
+  height: 48.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cadastrodetalento-group {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 48.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cadastrodetalento-vector {
+  top: 0px;
+  left: 29.550233840942383px;
+  width: 20px;
+  height: 48px;
+  position: absolute;
+}
+.cadastrodetalento-vector1 {
+  top: 21.57793617248535px;
+  left: 0px;
+  width: 50px;
+  height: 5px;
+  position: absolute;
+}
+.cadastrodetalento-frameiconarrowleft {
+  top: 24.25px;
+  left: 36px;
+  width: 50px;
+  height: 48.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cadastrodetalento-group1 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 48.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cadastrodetalento-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 48px;
+  position: absolute;
+}
+.cadastrodetalento-vector3 {
+  top: 21.577850341796875px;
+  left: 0.45401254296302795px;
+  width: 50px;
+  height: 5px;
+  position: absolute;
+}
+.cadastrodetalento-frameiconrefresh {
+  top: 24.25px;
+  left: 197px;
+  width: 50px;
+  height: 50.52083206176758px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cadastrodetalento-vector4 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 51px;
+  position: absolute;
+}
+.cadastrodetalento-frame3 {
+  top: 24.25px;
+  left: 293px;
+  width: 1444px;
+  height: 48.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrodetalento-text {
+  top: 4.75px;
+  left: 12px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-image2 {
+  top: 9px;
+  left: 1792px;
+  width: 80px;
+  height: 84px;
+  position: absolute;
+  border-radius: 337.5px;
+}
+.cadastrodetalento-group1 {
+  top: 97px;
+  left: 0px;
+  width: 1920px;
+  height: 88px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cadastrodetalento-frame4 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 87px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(75, 81, 88, 1);
+}
+.cadastrodetalento-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 326px;
+  height: 87px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.cadastrodetalento-rectangle2 {
+  top: 0px;
+  left: 326px;
+  width: 502px;
+  height: 87px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.cadastrodetalento-rectangle3 {
+  top: 0px;
+  left: 823px;
+  width: 548px;
+  height: 87px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.cadastrodetalento-rectangle4 {
+  top: 0px;
+  left: 1371px;
+  width: 549px;
+  height: 87px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.cadastrodetalento-text02 {
+  top: 17px;
+  left: 1448px;
+  color: rgba(255, 255, 255, 1);
+  width: 423px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-text04 {
+  top: 17px;
+  left: 960px;
+  color: rgba(255, 255, 255, 1);
+  width: 287px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-text06 {
+  top: 17px;
+  left: 458px;
+  color: rgba(255, 255, 255, 1);
+  width: 230px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-text08 {
+  top: 16px;
+  left: 93px;
+  color: rgba(255, 255, 255, 1);
+  width: 148px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-frame12 {
+  top: 343px;
+  left: 50px;
+  width: 396px;
+  height: 66px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrodetalento-frame27 {
+  gap: 10px;
+  top: 3px;
+  left: 12px;
+  width: 110px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+}
+.cadastrodetalento-text10 {
+  color: rgba(111, 111, 111, 1);
+  height: auto;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-frame13 {
+  top: 440px;
+  left: 46px;
+  width: 396px;
+  height: 66px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrodetalento-text12 {
+  top: 13px;
+  left: 22px;
+  color: rgba(112, 111, 111, 1);
+  width: 176px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-frame14 {
+  top: 537px;
+  left: 46px;
+  width: 396px;
+  height: 66px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrodetalento-text14 {
+  top: 13px;
+  left: 22px;
+  color: rgba(112, 111, 111, 1);
+  width: 176px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-frame17 {
+  top: 634px;
+  left: 51px;
+  width: 396px;
+  height: 66px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrodetalento-text16 {
+  top: 13px;
+  left: 22px;
+  color: rgba(112, 111, 111, 1);
+  width: 247px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-frame18 {
+  top: 731px;
+  left: 51px;
+  width: 396px;
+  height: 66px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrodetalento-text18 {
+  top: 13px;
+  left: 22px;
+  color: rgba(112, 111, 111, 1);
+  width: 247px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-frame19 {
+  top: 828px;
+  left: 46px;
+  width: 396px;
+  height: 66px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrodetalento-text20 {
+  top: 13px;
+  left: 22px;
+  color: rgba(112, 111, 111, 1);
+  width: 247px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-frame131 {
+  top: 343px;
+  left: 480px;
+  width: 639px;
+  height: 260px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrodetalento-text22 {
+  top: 13px;
+  left: 20px;
+  color: rgba(112, 111, 111, 1);
+  width: 599px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-frame15 {
+  top: 343px;
+  left: 1157px;
+  width: 333px;
+  height: 260px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrodetalento-text24 {
+  top: 13px;
+  left: 22px;
+  color: rgba(112, 111, 111, 1);
+  width: 289px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-frame20 {
+  top: 634px;
+  left: 480px;
+  width: 333px;
+  height: 260px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrodetalento-text26 {
+  top: 13px;
+  left: 22px;
+  color: rgba(112, 111, 111, 1);
+  width: 276px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-frame21 {
+  top: 634px;
+  left: 846px;
+  width: 333px;
+  height: 260px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrodetalento-text28 {
+  top: 13px;
+  left: 22px;
+  color: rgba(112, 111, 111, 1);
+  width: 281px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-frame22 {
+  top: 634px;
+  left: 1237px;
+  width: 624px;
+  height: 260px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrodetalento-text30 {
+  top: 18px;
+  left: 20px;
+  color: rgba(112, 111, 111, 1);
+  width: 623px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-frame16 {
+  top: 343px;
+  left: 1528px;
+  width: 333px;
+  height: 260px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrodetalento-text32 {
+  top: 13px;
+  left: 22px;
+  color: rgba(112, 111, 111, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-text34 {
+  top: 207px;
+  left: 535px;
+  color: rgba(255, 255, 255, 1);
+  width: 841px;
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-frame23 {
+  top: 939px;
+  left: 984px;
+  width: 339px;
+  height: 85px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(30, 168, 28, 1);
+}
+.cadastrodetalento-text36 {
+  top: 19px;
+  left: 56px;
+  color: rgba(47, 47, 47, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-frame24 {
+  top: 939px;
+  left: 573px;
+  width: 339px;
+  height: 85px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 0, 0, 1);
+}
+.cadastrodetalento-text38 {
+  top: 19px;
+  left: 38px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrodetalento-frameiconxrpxrp {
+  top: 14px;
+  left: 237px;
+  width: 75.15606689453125px;
+  height: 58.337127685546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cadastrodetalento-group2 {
+  top: 0px;
+  left: 0px;
+  width: 75.15606689453125px;
+  height: 58.337127685546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cadastrodetalento-vector5 {
+  top: 0px;
+  left: 0px;
+  width: 75px;
+  height: 33px;
+  position: absolute;
+}
+.cadastrodetalento-vector6 {
+  top: 24.954139709472656px;
+  left: -2.842170943040401e-14px;
+  width: 75px;
+  height: 33px;
+  position: absolute;
+}
+.cadastrodetalento-frameicontickcircle {
+  top: 947px;
+  left: 1202px;
+  width: 75.15606689453125px;
+  height: 69.15606689453125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cadastrodetalento-group3 {
+  top: 0px;
+  left: 0px;
+  width: 75.15606689453125px;
+  height: 69.15606689453125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cadastrodetalento-vector7 {
+  top: 0px;
+  left: 0px;
+  width: 75px;
+  height: 69px;
+  opacity: 0.40;
+  position: absolute;
+}
+.cadastrodetalento-vector8 {
+  top: 22.173480987548828px;
+  left: 18.796403884887695px;
+  width: 38px;
+  height: 25px;
+  position: absolute;
+}

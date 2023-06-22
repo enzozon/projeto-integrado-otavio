@@ -1,6 +1,6 @@
 <h3 align="center">Projeto Integrado</h3>
 
-- Alunos: **Enzo Faroni Zon, Guilherme Gasparini, Filippo Ferraz Ungarelli.**
+- Alunos: **Enzo Faroni Zon, Guilherme Gasparini, Filippo Ferraz Ungarelli, Rafael Sesana.**
 
 - Objetivo: **Passar o design feito no Figma junto da professora Susileia para o código html.**
 
